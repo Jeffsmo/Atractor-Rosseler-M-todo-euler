@@ -10,3 +10,4 @@ Este repositorio contiene la implementación de un método numérico para simula
    git clone git@github.com:Jeffsmo/Atractor-Rosseler-M-todo-euler.git
 
 
+![Solución-Numérico](/ATRACTOR DE ROSSELER 250s.jpg)
