@@ -8,6 +8,8 @@ Este repositorio contiene la implementación de un método numérico para simula
 
    ```bash
    git clone git@github.com:Jeffsmo/Atractor-Rosseler-M-todo-euler.git
-
+2. Ejecuta en worskpace desde MATALB
+   ````bash
+   AT_ROSSELER
 
 ![Solución-Numérico](./ATRACTOR%20DE%20ROSSELER%20250s.jpg)
